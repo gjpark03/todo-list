@@ -1,6 +1,6 @@
 {
-    "name": "todo_list",
-    "short_name": "todo_list",
+    "name": "final_proj",
+    "short_name": "final_proj",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
