@@ -1,16 +1,18 @@
-# final_proj
+# Todo List
+Simple todo list
 
-A new Flutter project.
+![GitHub User's stars](https://img.shields.io/github/stars/gjpark03) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/gjpark03/303TripPlanner) ![Version](https://img.shields.io/badge/version-1.0.0-green)
+
+## Video Demo
+
+## Features
+- **Add new tasks**: Press "+" icon to add new tasks.
+
+## Technology Stack
+
+- **Frontend**: Dart
+- **Database**:
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+## Acknowledgements
